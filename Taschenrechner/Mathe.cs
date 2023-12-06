@@ -49,6 +49,7 @@ namespace Taschenrechner
             //if (b == 0) throw new ArgumentException("b muss größer als null sein");
 
             return a / b;
+
         }
     }
 }
